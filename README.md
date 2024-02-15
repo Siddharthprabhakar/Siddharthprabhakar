@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Siddharth Prabhakar</h1>
-<h3 align="center">I am dedicated to both frontend and Android development, driven by a profound passion for creating seamless user experiences.</h3>
 
 - 🔭 I’m currently working on **Android Devlopment**
 
