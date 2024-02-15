@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **Sid130803@gmail.com**
 
-- ⚡ Fun fact **Turning coffee into code, one cup at a time ☕💻**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddharth-prabhakar-4b22a9234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-prabhakar-4b22a9234" height="30" width="40" /></a>
