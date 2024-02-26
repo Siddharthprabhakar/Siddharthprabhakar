@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Prabhakar</h1>
 
-- 🔭 I’m currently working on **Android Devlopment**
-
 - 📫 How to reach me **Sid130803@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
