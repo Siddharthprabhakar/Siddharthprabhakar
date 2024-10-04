@@ -9,16 +9,12 @@ I'm a passionate **UI/UX Enthusiast** who also works on **AIML** and **Full Stac
 - 🎨 My main interest is in **UI/UX Design** but I’ve also worked extensively on **AI/ML** and **Full Stack Development** projects.
 - 🌱 I’m currently learning more about advanced **user experience research** and **AI-driven design**.
 - 💬 Ask me about **design systems**, **AI models**, or **full stack development**.
-- 📫 How to reach me: siddharth.prabhakar@example.com
+- 📫 How to reach me: sid130803@gmail.com
 - ⚡ Fun fact: I’m always looking for ways to fuse creativity with technology.
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/siddharthprabhakar/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/SiddharthPrabhk) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react)](https://your-portfolio-link.com)
-
-## 📊 GitHub Stats
-
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddharthprabhakar&show_icons=true&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/siddharthprabhakar/) [![Medium](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=medium)]([https://twitter.com/SiddharthPrabhk](https://medium.com/@sid130803)) [![Portfolio](https://siddharthprabhakar.github.io/Sid/)
 
 ## 🛠 Tech Stack
 
@@ -27,10 +23,6 @@ I'm a passionate **UI/UX Enthusiast** who also works on **AIML** and **Full Stac
 ## 🖼️ UI/UX Tools I Use
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=white) ![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=adobexd&logoColor=white)
-
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Siddharthprabhakar&theme=react-dark&hide_border=true&area=true)
 
 ## ✨ Contributions
 
