@@ -14,7 +14,11 @@ I'm a passionate **UI/UX Enthusiast** who also works on **AIML** and **Full Stac
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/siddharthprabhakar/) [![Medium](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=medium)]([https://twitter.com/SiddharthPrabhk](https://medium.com/@sid130803)) [![Portfolio](https://siddharthprabhakar.github.io/Sid/)
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/siddharth1308/) 
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium)](https://medium.com/@sid130803) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react)](https://siddharthprabhakar.github.io/Sid/)
 
 ## 🛠 Tech Stack
 
