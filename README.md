@@ -16,35 +16,9 @@ I'm a passionate **UI/UX Enthusiast** who also works on **AIML** and **Full Stac
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/siddharthprabhakar/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/SiddharthPrabhk) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react)](https://your-portfolio-link.com)
 
-## 🚀 Projects
-
-Here are a few projects that showcase my skills in AIML, Full Stack, and UI/UX:
-
-### [AI-Powered UI Design Tool](https://github.com/Siddharthprabhakar/project1)
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=Siddharthprabhakar&repo=project1&theme=radical)](https://github.com/Siddharthprabhakar/project1)
-
-This tool uses machine learning algorithms to assist designers in building responsive and accessible user interfaces.
-
----
-
-### [Full Stack E-commerce Website](https://github.com/Siddharthprabhakar/project2)
-[![Project2](https://github-readme-stats.vercel.app/api/pin/?username=Siddharthprabhakar&repo=project2&theme=merko)](https://github.com/Siddharthprabhakar/project2)
-
-An end-to-end e-commerce platform built using MERN stack with a focus on seamless user experience.
-
----
-
 ## 📊 GitHub Stats
 
 ![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddharthprabhakar&show_icons=true&theme=tokyonight)
-
-## 🔥 My Streaks
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddharthprabhakar&theme=highcontrast)](https://git.io/streak-stats)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Siddharthprabhakar&theme=onedark)
 
 ## 🛠 Tech Stack
 
@@ -62,6 +36,3 @@ An end-to-end e-commerce platform built using MERN stack with a focus on seamles
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthprabhakar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-⭐️ From [Siddharth Prabhakar](https://github.com/Siddharthprabhakar)
