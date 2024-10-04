@@ -1,7 +1,5 @@
 # Hi there, I'm Siddharth Prabhakar 👋
 
-![GitHub followers](https://img.shields.io/github/followers/Siddharthprabhakar?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/Siddharthprabhakar?affiliations=OWNER%2CCOLLABORATOR&style=social)
-
 I'm a passionate **UI/UX Enthusiast** who also works on **AIML** and **Full Stack Development** projects. I love creating intuitive and visually appealing user interfaces, and I'm always exploring ways to blend AI with great design. Welcome to my GitHub profile! 🚀
 
 ## About Me
