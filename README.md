@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Siddharth Prabhakar, UX engineer and HCI researcher, research in motion" />
+<img src="assets/hero.svg" width="100%" alt="Siddharth Prabhakar, UX engineer and HCI researcher" />
 
 <a href="https://wakeupsid.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=FF3B3B&center=true&vCenter=true&width=700&lines=From+VR+research+studies+to+React+interfaces;AI+that+shows+its+work;Accessible+by+default%2C+tested+with+real+people;Three+countries%2C+one+direction" alt="Typing animation" />
