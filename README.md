@@ -1,30 +1,44 @@
-# Hi there, I'm Siddharth Prabhakar 👋
+<div align="center">
 
-I'm a passionate **UI/UX Enthusiast** who also works on **AIML** and **Full Stack Development** projects. I love creating intuitive and visually appealing user interfaces, and I'm always exploring ways to blend AI with great design. Welcome to my GitHub profile! 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f10,100:3a3a3c&height=180&section=header&text=Siddharth%20Prabhakar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=UX%20engineer%20%2B%20HCI%20researcher&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Siddharth Prabhakar, UX engineer and HCI researcher" />
 
-## About Me
+<a href="https://github.com/Siddharthprabhakar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=8AB4FF&center=true&vCenter=true&width=640&lines=Interfaces+people+can+trust;AI+tools+where+code+checks+the+model;Accessible+React+apps+tested+with+real+users;Master%27s+in+HCI%2C+May+2027" alt="Typing animation" />
+</a>
 
-- 🎨 My main interest is in **UI/UX Design** but I’ve also worked extensively on **AI/ML** and **Full Stack Development** projects.
-- 🌱 I’m currently learning more about advanced **user experience research** and **AI-driven design**.
-- 💬 Ask me about **design systems**, **AI models**, or **full stack development**.
-- 📫 How to reach me: sid130803@gmail.com
-- ⚡ Fun fact: I’m always looking for ways to fuse creativity with technology.
+<br/>
 
-## 🔗 Connect with me
+[![Portfolio](https://img.shields.io/badge/Portfolio-wakeupsid.com-111111?style=for-the-badge&logo=safari&logoColor=white)](https://wakeupsid.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-siddharth1308-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth1308)
+[![Scholar](https://img.shields.io/badge/Google%20Scholar-papers-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=B-8dBZEAAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-sid130803%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sid130803@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/siddharth1308/) 
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium)](https://medium.com/@sid130803) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react)](https://siddharthprabhakar.github.io/Sid/)
+</div>
 
-## 🛠 Tech Stack
+## About
 
-![HTML5](https://img.shields.io/badge/HTML5-239120?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+I am finishing a master's in Human-Computer Interaction at Indiana University Indianapolis (May 2027). I design interfaces, build them in React, TypeScript and Vue, and test them with real people. I care most about AI products where a person can see what the model did and decide whether to trust it.
 
-## 🖼️ UI/UX Tools I Use
+## Selected work
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=white) ![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=adobexd&logoColor=white)
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **Handover** | A project-memory app for research labs. A model drafts, code verifies every quote against the transcript, and a professor approves. Solo build for the Meta Global AI Developer Hackathon. | Next.js, TypeScript, Supabase, PostgreSQL, Zod | [Code](https://github.com/Siddharthprabhakar/Handover) / [Live demo](https://handover-dusky.vercel.app/) |
+| **AccessDraft** | A mobile-first app for drafting accessibility accommodation requests. A blind accessibility professional tested it on VoiceOver and her feedback led to seven changes. Team of six. | React, Vite, Figma | [Code](https://github.com/Siddharthprabhakar/AccessDraft) / [Live](https://siddharthprabhakar.github.io/AccessDraft/) |
+| **EcoOptimizer** | A dashboard with a recommendation panel and a projected versus default output chart. 2nd place at FusionHack. | Dashboard, data visualization | [Code](https://github.com/Siddharthprabhakar/FusionHack_EcoOptimizer) |
 
-## ✨ Contributions
+## Now
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthprabhakar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- Full stack web programming intern at The Polis Center (AI search with Vue and FastAPI, details under NDA).
+- Research assistant at Indiana University Indianapolis: a study de-identification tool and a real-time VR gaze pipeline in Unity.
+- Practicing data structures and algorithms and learning AWS.
 
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vue,tailwind,python,fastapi,postgres,supabase,figma,docker,git,vercel,unity,cs&perline=8" alt="Skills" />
+</p>
+
+<div align="center">
+<sub>More on <a href="https://wakeupsid.com">wakeupsid.com</a></sub>
+</div>
