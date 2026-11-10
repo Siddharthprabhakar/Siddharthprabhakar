@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f10,100:3a3a3c&height=180&section=header&text=Siddharth%20Prabhakar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=UX%20engineer%20%2B%20HCI%20researcher&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Siddharth Prabhakar, UX engineer and HCI researcher" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:b3001b&height=180&section=header&text=Siddharth%20Prabhakar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=UX%20engineer%20%2B%20HCI%20researcher&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Siddharth Prabhakar, UX engineer and HCI researcher" />
 
 <a href="https://github.com/Siddharthprabhakar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=8AB4FF&center=true&vCenter=true&width=640&lines=Interfaces+people+can+trust;AI+tools+where+code+checks+the+model;Accessible+React+apps+tested+with+real+users;Master%27s+in+HCI%2C+May+2027" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=FF3B3B&center=true&vCenter=true&width=640&lines=Interfaces+people+can+trust;AI+tools+where+code+checks+the+model;Accessible+React+apps+tested+with+real+users;Master%27s+in+HCI%2C+May+2027" alt="Typing animation" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wakeupsid.com-111111?style=for-the-badge&logo=safari&logoColor=white)](https://wakeupsid.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-siddharth1308-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth1308)
-[![Scholar](https://img.shields.io/badge/Google%20Scholar-papers-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=B-8dBZEAAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-sid130803%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sid130803@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-wakeupsid.com-b3001b?style=for-the-badge&logo=safari&logoColor=white&labelColor=111111)](https://wakeupsid.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-siddharth1308-b3001b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](https://www.linkedin.com/in/siddharth1308)
+[![Scholar](https://img.shields.io/badge/Google%20Scholar-papers-b3001b?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=111111)](https://scholar.google.com/citations?user=B-8dBZEAAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-sid130803%40gmail.com-b3001b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111)](mailto:sid130803@gmail.com)
 
 </div>
 
