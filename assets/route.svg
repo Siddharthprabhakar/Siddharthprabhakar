@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-label="Route so far: Pune, Sharjah, Indianapolis, The Polis Center">
+<title>The route so far</title>
+<style>
+.y{font:700 13px 'Courier New',monospace;fill:#ff3b3b;letter-spacing:3px}
+.pl{font:800 16px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff;letter-spacing:1px}
+.d{font:400 12px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#a1a1aa}
+@keyframes draw{from{stroke-dashoffset:760}to{stroke-dashoffset:0}}
+@keyframes pop{0%,100%{r:7}50%{r:10}}
+.ln{stroke-dasharray:760;animation:draw 3s ease-out forwards}
+.nd{animation:pop 2.2s ease-in-out infinite}
+</style>
+<line x1="100" y1="86" x2="790" y2="86" stroke="#2a2a2e" stroke-width="3"/>
+<line class="ln" x1="100" y1="86" x2="790" y2="86" stroke="#e11d2e" stroke-width="3"/>
+<g text-anchor="middle">
+<circle class="nd" cx="100" cy="86" r="7" fill="#0b0b0c" stroke="#ff3b3b" stroke-width="3"/>
+<text class="y" x="100" y="54">2021</text><text class="pl" x="100" y="120">PUNE</text><text class="d" x="100" y="140">CS and Engineering</text>
+<circle class="nd" cx="330" cy="86" r="7" fill="#0b0b0c" stroke="#ff3b3b" stroke-width="3" style="animation-delay:.3s"/>
+<text class="y" x="330" y="54">2025</text><text class="pl" x="330" y="120">SHARJAH</text><text class="d" x="330" y="140">UI/UX + front-end intern</text>
+<circle class="nd" cx="560" cy="86" r="7" fill="#0b0b0c" stroke="#ff3b3b" stroke-width="3" style="animation-delay:.6s"/>
+<text class="y" x="560" y="54">2025</text><text class="pl" x="560" y="120">INDIANAPOLIS</text><text class="d" x="560" y="140">M.S. HCI + research</text>
+<circle class="nd" cx="790" cy="86" r="7" fill="#0b0b0c" stroke="#ff3b3b" stroke-width="3" style="animation-delay:.9s"/>
+<text class="y" x="790" y="54">2026</text><text class="pl" x="790" y="120">THE POLIS CENTER</text><text class="d" x="790" y="140">Full stack intern</text>
+</g>
+</svg>

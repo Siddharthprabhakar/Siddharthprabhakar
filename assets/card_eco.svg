@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="190" viewBox="0 0 300 190" role="img" aria-label="EcoOptimizer, 2nd place at FusionHack">
+<title>EcoOptimizer</title>
+<style>
+.k{font:700 11px 'Courier New',monospace;fill:#ff3b3b;letter-spacing:3px}
+.h{font:800 26px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff}
+.p{font:400 13.5px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#a1a1aa}
+.c{font:600 11px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff}
+.f{font:700 10px 'Courier New',monospace;fill:#71717a;letter-spacing:2px}
+@keyframes glow{0%,100%{opacity:.5}50%{opacity:1}}
+.top{animation:glow 2.4s ease-in-out infinite .8s}
+</style>
+<rect x=".5" y=".5" width="299" height="189" rx="14" fill="#111113" stroke="#2a2a2e"/>
+<rect class="top" x="0" y="0" width="300" height="4" rx="2" fill="#b3001b"/>
+<text class="k" x="20" y="34">03 / HACKATHON</text>
+<text class="h" x="20" y="70">EcoOptimizer</text>
+<text class="p" x="20" y="96">Recommendations and projected</text>
+<text class="p" x="20" y="115">versus default output.</text>
+<rect x="20" y="132" width="74" height="22" rx="11" fill="#1f1f23" stroke="#3a3a40"/><text class="c" x="57" y="147" text-anchor="middle">Dashboard</text>
+<rect x="102" y="132" width="74" height="22" rx="11" fill="#1f1f23" stroke="#3a3a40"/><text class="c" x="139" y="147" text-anchor="middle">Data viz</text>
+<text class="f" x="20" y="176">2ND PLACE / FUSIONHACK</text>
+</svg>

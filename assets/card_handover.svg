@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="190" viewBox="0 0 300 190" role="img" aria-label="Handover, a project memory app for research labs">
+<title>Handover</title>
+<style>
+.k{font:700 11px 'Courier New',monospace;fill:#ff3b3b;letter-spacing:3px}
+.h{font:800 26px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff}
+.p{font:400 13.5px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#a1a1aa}
+.c{font:600 11px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff}
+.f{font:700 10px 'Courier New',monospace;fill:#71717a;letter-spacing:2px}
+@keyframes glow{0%,100%{opacity:.5}50%{opacity:1}}
+.top{animation:glow 2.4s ease-in-out infinite}
+</style>
+<rect x=".5" y=".5" width="299" height="189" rx="14" fill="#111113" stroke="#2a2a2e"/>
+<rect class="top" x="0" y="0" width="300" height="4" rx="2" fill="#b3001b"/>
+<text class="k" x="20" y="34">01 / BUILD</text>
+<text class="h" x="20" y="70">Handover</text>
+<text class="p" x="20" y="96">A model drafts. Code checks every quote.</text>
+<text class="p" x="20" y="115">A person approves.</text>
+<rect x="20" y="132" width="62" height="22" rx="11" fill="#1f1f23" stroke="#3a3a40"/><text class="c" x="51" y="147" text-anchor="middle">Next.js</text>
+<rect x="90" y="132" width="86" height="22" rx="11" fill="#1f1f23" stroke="#3a3a40"/><text class="c" x="133" y="147" text-anchor="middle">TypeScript</text>
+<rect x="184" y="132" width="78" height="22" rx="11" fill="#1f1f23" stroke="#3a3a40"/><text class="c" x="223" y="147" text-anchor="middle">Supabase</text>
+<text class="f" x="20" y="176">SOLO / META AI HACKATHON</text>
+</svg>

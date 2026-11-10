@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="How I work: show the work, test with real people, accessible first">
+<title>How I work</title>
+<style>
+.h{font:800 18px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff}
+.p{font:400 13px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#a1a1aa}
+@keyframes ring{0%,100%{stroke-opacity:.45}50%{stroke-opacity:1}}
+.r{animation:ring 2.6s ease-in-out infinite}
+.r2{animation:ring 2.6s ease-in-out infinite .6s}
+.r3{animation:ring 2.6s ease-in-out infinite 1.2s}
+</style>
+<g>
+<rect x="10" y="10" width="280" height="130" rx="14" fill="#111113" stroke="#2a2a2e"/>
+<circle class="r" cx="52" cy="60" r="20" fill="none" stroke="#ff3b3b" stroke-width="3"/>
+<path d="M42 60 L50 68 L63 52" fill="none" stroke="#ff3b3b" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="h" x="88" y="56">Show the work</text>
+<text class="p" x="88" y="76">AI answers come with proof.</text>
+<text class="p" x="28" y="112">Every quote verified in code.</text>
+</g>
+<g>
+<rect x="310" y="10" width="280" height="130" rx="14" fill="#111113" stroke="#2a2a2e"/>
+<circle class="r2" cx="344" cy="52" r="10" fill="none" stroke="#ff3b3b" stroke-width="3"/>
+<circle class="r2" cx="368" cy="52" r="10" fill="none" stroke="#ff3b3b" stroke-width="3"/>
+<path class="r2" d="M332 76 Q344 62 356 76 M356 76 Q368 62 380 76" fill="none" stroke="#ff3b3b" stroke-width="3" stroke-linecap="round"/>
+<text class="h" x="396" y="56">Test with people</text>
+<text class="p" x="396" y="76">Interviews, think-alouds.</text>
+<text class="p" x="328" y="112">A blind tester shaped 7 changes.</text>
+</g>
+<g>
+<rect x="610" y="10" width="280" height="130" rx="14" fill="#111113" stroke="#2a2a2e"/>
+<circle class="r3" cx="652" cy="60" r="20" fill="none" stroke="#ff3b3b" stroke-width="3"/>
+<circle cx="652" cy="52" r="4" fill="#ff3b3b"/>
+<path d="M641 62 H663 M652 58 V70 M652 70 L646 78 M652 70 L658 78" fill="none" stroke="#ff3b3b" stroke-width="2.5" stroke-linecap="round"/>
+<text class="h" x="688" y="56">Accessible first</text>
+<text class="p" x="688" y="76">From the first screen.</text>
+<text class="p" x="628" y="112">WCAG 2.1 AA components.</text>
+</g>
+</svg>
